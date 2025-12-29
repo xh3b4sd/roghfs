@@ -8,7 +8,7 @@ require (
 	github.com/google/go-github/v76 v76.0.0
 	github.com/puzpuzpuz/xsync/v4 v4.2.0
 	github.com/spf13/afero v1.15.0
-	github.com/xh3b4sd/choreo v0.7.0
+	github.com/xh3b4sd/choreo v0.7.1
 	github.com/xh3b4sd/tracer v1.0.0
 )
 
