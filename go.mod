@@ -3,7 +3,7 @@ module github.com/0xSplits/roghfs
 go 1.25
 
 require (
-	github.com/Masterminds/semver/v3 v3.4.0
+	github.com/Masterminds/semver/v3 v3.5.0
 	github.com/google/go-cmp v0.7.0
 	github.com/google/go-github/v76 v76.0.0
 	github.com/puzpuzpuz/xsync/v4 v4.5.0
